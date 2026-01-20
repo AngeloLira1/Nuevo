@@ -12,3 +12,9 @@
 * **PHP:** Implementación de sitios web en Visual Studio Code.
 * **SQL:** Consultas y manejo de bases de datos.
   
+##  Aplicaciones Desarrolladas
+1.  **Calculadora de Ventas (Heladería):** Aplicación de escritorio creada en NetBeans que permite seleccionar sabores y tamaños mediante una interfaz de botones, calculando el precio final automáticamente.
+2.  **Chat Local:** Implementación de un sistema de mensajería para redes locales, poniendo en práctica conceptos de conectividad.
+
+## Experiencia Previa
+* **Estudiante Independiente:** Actualmente enfocado en fortalecer mis bases técnicas y construir mis primeros proyectos personales para ganar experiencia práctica.
